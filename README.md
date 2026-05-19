@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sona V</h1>
-<h3 align="center">AI & Data Science Undergraduate | Python Developer | Data Analytics Enthusiast</h3>
+
+<h3 align="center">
+Aspiring AI Engineer focused on Data Analytics and Intelligent Applications
+</h3>
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -9,12 +12,14 @@
 - 🔍 Interested in solving real-world problems using data-driven solutions  
 - 📊 Skilled in Python, SQL, Power BI, Tableau, APIs, and Data Visualization  
 - 🚀 Open to internships and collaborative AI/Data projects  
+- 📫 Reach me at: **sonav62713@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/sona-v-22870b2a5" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -26,28 +31,36 @@
 <a href="https://leetcode.com/u/Sona_V/" target="blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### 👩‍💻 Languages
+
 <p>
 <img height="45" src="https://img.icons8.com/color/48/python.png"/>
 <img height="45" src="https://img.icons8.com/color/48/sql.png"/>
 <img height="45" src="https://img.icons8.com/quill/100/html.png" alt="html"/>
 </p>
 
+---
+
 ### ⚙️ Frameworks & Libraries
+
 <p>
-<img height="24" src="https://img.icons8.com/material-rounded/24/django.png" alt="django"/>
+<img height="45" src="https://img.icons8.com/material-rounded/48/django.png" alt="django"/>
 <img height="45" src="https://img.icons8.com/color/48/flask.png"/>
 <img height="45" src="https://img.icons8.com/color/48/pandas.png"/>
 <img height="45" src="https://img.icons8.com/color/48/numpy.png"/>
 </p>
 
+---
+
 ### 📊 Tools & Platforms
+
 <p>
 <img height="45" src="https://img.icons8.com/color/48/power-bi.png"/>
 <img height="45" src="https://img.icons8.com/color/48/tableau-software.png"/>
@@ -61,20 +74,27 @@
 
 # 🚀 Featured Projects
 
-### 🔹 Missing Person Detection & Real-Time Alert System
-- Developed a facial recognition web application using Flask and OpenCV
-- Implemented real-time webcam detection and automated alert system
-- Managed structured SQLite database for efficient record handling
+## 🔹 Missing Person Detection & Real-Time Alert System
 
-### 🔹 FixForge-AI
-- Built an AI-powered vulnerability detection platform
-- Integrated OSV API for real-time security analysis
-- Added GitHub repository scanning and risk-scoring dashboard
+- Developed a facial recognition web application using Flask and OpenCV  
+- Implemented real-time webcam detection and automated alert system  
+- Managed structured SQLite database for efficient record handling  
 
-### 🔹 Pet Adoption & Rescue Management System
-- Designed a Django-based adoption platform
-- Included chatbot support, admin dashboard, and rescue workflows
-- Implemented secure database validation and reporting features
+---
+
+## 🔹 FixForge-AI
+
+- Built an AI-powered vulnerability detection platform  
+- Integrated OSV API for real-time security analysis  
+- Added GitHub repository scanning and risk-scoring dashboard  
+
+---
+
+## 🔹 Pet Adoption & Rescue Management System
+
+- Designed a Django-based adoption platform  
+- Included chatbot support, admin dashboard, and rescue workflows  
+- Implemented secure database validation and reporting features  
 
 ---
 
@@ -86,10 +106,6 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sona-1346&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sona-1346&theme=tokyo-night" />
 </p>
 
 ---
@@ -106,4 +122,6 @@
 
 ---
 
-<h3 align="center">Passionate about AI, analytics, and intelligent applications</h3>
+<h3 align="center">
+Aspiring AI Engineer building practical and data-driven solutions
+</h3>
