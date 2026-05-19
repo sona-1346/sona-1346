@@ -36,7 +36,7 @@
 <p>
 <img height="45" src="https://img.icons8.com/color/48/python.png"/>
 <img height="45" src="https://img.icons8.com/color/48/sql.png"/>
-<img height="45" src="https://img.icons8.com/color/48/html-5.png"/
+<img height="45" src="https://img.icons8.com/quill/100/html.png" alt="html"/>
 </p>
 
 ### ⚙️ Frameworks & Libraries
