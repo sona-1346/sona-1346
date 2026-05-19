@@ -36,16 +36,12 @@
 <p>
 <img height="45" src="https://img.icons8.com/color/48/python.png"/>
 <img height="45" src="https://img.icons8.com/color/48/sql.png"/>
-<img height="45" src="https://img.icons8.com/color/48/javascript.png"/>
-<img height="45" src="https://img.icons8.com/color/48/html-5.png"/>
-<img height="45" src="https://img.icons8.com/color/48/css3.png"/>
+<img height="45" src="https://img.icons8.com/color/48/html-5.png"/
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p>
-<img height="45" src="https://img.icons8.com/fluency/48/django.png"/>
-<img height="45" src="https://img.icons8.com/offices/40/react.png"/>
-<img height="45" src="https://img.icons8.com/color/48/nodejs.png"/>
+<img height="24" src="https://img.icons8.com/material-rounded/24/django.png" alt="django"/>
 <img height="45" src="https://img.icons8.com/color/48/flask.png"/>
 <img height="45" src="https://img.icons8.com/color/48/pandas.png"/>
 <img height="45" src="https://img.icons8.com/color/48/numpy.png"/>
