@@ -94,14 +94,6 @@
 
 ---
 
-# 🧠 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Sona_V?theme=dark&font=Nunito&ext=contest" />
-</p>
-
----
-
 # 📜 Certifications
 
 - Google Data Analytics  
@@ -114,4 +106,4 @@
 
 ---
 
-<h3 align="center">⭐ Building AI & Data-driven solutions with creativity and code ⭐</h3>
+<h3 align="center">Passionate about AI, analytics, and intelligent applications</h3>
