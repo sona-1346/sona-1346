@@ -1,81 +1,121 @@
-## Hi there 👋 It's me Sona V
+<h1 align="center">Hi 👋, I'm Sona V</h1>
+<h3 align="center">AI & Data Science Undergraduate | Python Developer | Data Analytics Enthusiast</h3>
 
-AI & Data Science Undergraduate | Aspiring Data Engineer / Analyst
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 Pursuing B.Tech in **Artificial Intelligence & Data Science** @ S.A. Engineering College, Chennai (CGPA: 8.74/10)
-- 💼 Former **AI & Data Science Intern** @ Aristoverse DeepTech, Chennai
-- 🛠️ Former **Python Developer Intern** @ Infosys Springboard
-- 🔭 Currently building projects in **Data Engineering, AI, and Web Apps**
-- 🌱 Sharpening skills in **ETL workflows, Data Governance, and Model Deployment**
-- 📊 Passionate about turning raw data into **actionable insights** using Power BI & Tableau
-- ⚡ Fun fact: I built a **real-time missing person detection system** using facial recognition!
-
-### 🌐 Social Presence
-<br />
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-linkedin-here)
-<br />
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/your-github-here)
-<br />
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sonav62713@gmail.com)
+- 🎓 B.Tech in Artificial Intelligence and Data Science  
+- 💡 Passionate about AI-powered applications, Data Analytics, and Backend Development  
+- 🌱 Currently exploring Machine Learning, Data Engineering, and Full-Stack Development  
+- 🔍 Interested in solving real-world problems using data-driven solutions  
+- 📊 Skilled in Python, SQL, Power BI, Tableau, APIs, and Data Visualization  
+- 🚀 Open to internships and collaborative AI/Data projects  
 
 ---
 
-### 💻 I Code In
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/sql.png" title="SQL"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sona-v-22870b2a5" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sona-1346" target="blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Sona_V/" target="blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
 
 ---
 
-### 📚 Frameworks & Libraries
-<img height="50" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+## 💻 Tech Stack
+
+### 👩‍💻 Languages
+<p>
+<img height="45" src="https://img.icons8.com/color/48/python.png"/>
+<img height="45" src="https://img.icons8.com/color/48/sql.png"/>
+<img height="45" src="https://img.icons8.com/color/48/javascript.png"/>
+<img height="45" src="https://img.icons8.com/color/48/html-5.png"/>
+<img height="45" src="https://img.icons8.com/color/48/css3.png"/>
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+<img height="45" src="https://img.icons8.com/fluency/48/django.png"/>
+<img height="45" src="https://img.icons8.com/offices/40/react.png"/>
+<img height="45" src="https://img.icons8.com/color/48/nodejs.png"/>
+<img height="45" src="https://img.icons8.com/color/48/flask.png"/>
+<img height="45" src="https://img.icons8.com/color/48/pandas.png"/>
+<img height="45" src="https://img.icons8.com/color/48/numpy.png"/>
+</p>
+
+### 📊 Tools & Platforms
+<p>
+<img height="45" src="https://img.icons8.com/color/48/power-bi.png"/>
+<img height="45" src="https://img.icons8.com/color/48/tableau-software.png"/>
+<img height="45" src="https://img.icons8.com/color/48/git.png"/>
+<img height="45" src="https://img.icons8.com/color/48/github.png"/>
+<img height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+<img height="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+</p>
 
 ---
 
-### 🛠️ Tools & Platforms I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" title="Git"/>
-<img height="50" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img height="50" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
+# 🚀 Featured Projects
+
+### 🔹 Missing Person Detection & Real-Time Alert System
+- Developed a facial recognition web application using Flask and OpenCV
+- Implemented real-time webcam detection and automated alert system
+- Managed structured SQLite database for efficient record handling
+
+### 🔹 FixForge-AI
+- Built an AI-powered vulnerability detection platform
+- Integrated OSV API for real-time security analysis
+- Added GitHub repository scanning and risk-scoring dashboard
+
+### 🔹 Pet Adoption & Rescue Management System
+- Designed a Django-based adoption platform
+- Included chatbot support, admin dashboard, and rescue workflows
+- Implemented secure database validation and reporting features
 
 ---
 
-### 🚀 Projects
+# 📈 GitHub Stats
 
-| Project | Tech Stack | Description |
-|--------|-----------|-------------|
-| 🧑‍💻 **Missing Person Detection & Real-Time Alert System** | Flask, OpenCV, SQLite | Facial recognition web app for real-time missing person identification with automated alerts |
-| 🔐 **FixForge-AI** | React, Node.js, OSV API | Security data platform for automated vulnerability detection with GitHub repo scanning & risk dashboard |
-| 🐾 **Pet Adoption & Rescue Management System** | Django | Relational DB-backed adoption portal with chatbot, data validation workflows & admin dashboard |
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sona-1346&show_icons=true&theme=tokyonight" />
+</p>
 
----
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sona-1346&theme=tokyonight" />
+</p>
 
-### 🏅 Certifications
-- 📊 **Google Data Analytics**
-- 🤖 **IBM Data Science**
-- 🏢 **TCS iON Young Professional**
-- 🐍 **NPTEL** — Python for Data Science | DBMS | Data Mining
-- 💡 **Infosys Springboard** — Python Foundation
-- 📈 **NoviTech** — Data Analytics
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sona-1346&theme=tokyo-night" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+# 🧠 LeetCode Stats
 
-![Sona's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=dark&show_icons=true&hide=issues,contribs)
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Sona_V?theme=dark&font=Nunito&ext=contest" />
+</p>
 
-[![Sona's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+# 📜 Certifications
+
+- Google Data Analytics  
+- IBM Data Science  
+- Infosys Springboard Python Foundation  
+- TCS iON Young Professional  
+- NPTEL – Python for Data Science  
+- NPTEL – DBMS  
+- NPTEL – Data Mining  
+
+---
+
+<h3 align="center">⭐ Building AI & Data-driven solutions with creativity and code ⭐</h3>
